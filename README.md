@@ -1,4 +1,5 @@
-# EduNexas <br /> is a comprehensive e-learning platform developed using the MERN Stack (MongoDB, Express.js, React.js, Node.js). The platform allows users to register, log in using OTP authentication, purchase courses, subscribe to content, and start learning. This project aims to provide an interactive and seamless learning experience.
+# EduNexas <br /> 
+is a comprehensive e-learning platform developed using the MERN Stack (MongoDB, Express.js, React.js, Node.js). The platform allows users to register, log in using OTP authentication, purchase courses, subscribe to content, and start learning. This project aims to provide an interactive and seamless learning experience.
 
 ### Features
 User Registration and Login: Secure OTP authentication for user registration and login. <br />
